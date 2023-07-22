@@ -36,4 +36,8 @@ Includes tutorials, videos from conferences, and demos.
 * [Build and Deploy .Net Core WebAPI Container to Amazon EKS using CDK & cdk8s](https://aws.amazon.com/blogs/developer/build-and-deploy-net-core-webapi-container-to-amazon-eks-using-cdk-cdk8s/)
 * [MUSIC STORE .NET CORE GOES TO SERVERLESS KUBERNETES ON AMAZON EKS FARGATE](https://winonaws.cloud/dotnet/framework-to-core/30.html)
 
+## Amazon Elastic Kubernetes Service (Amazon EKS)
+
+* [Amazon Elastic Kubernetes Service Documentation](https://docs.aws.amazon.com/eks/index.html)
+
 
