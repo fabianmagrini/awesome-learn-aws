@@ -15,6 +15,12 @@ Free online courses from Amazon Web Services.
 
 * [edX courses offered by AWS](https://www.edx.org/school/aws)
 
+### freeCodeCamp courses on YouTube
+
+* [AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial](https://youtu.be/g2JOHLHh4rI)
+* [AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://youtu.be/SOTamWNgDKc)
+* [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://youtu.be/Ia-UEYYR44s)
+
 ### Udemy courses
 
 * [Amazon Web Services (AWS) - Zero to Hero](https://www.udemy.com/course/amazon-web-services-aws-v/)
@@ -47,5 +53,4 @@ Includes tutorials, videos from conferences, and demos.
 ## Amazon Elastic Kubernetes Service (Amazon EKS)
 
 * [Amazon Elastic Kubernetes Service Documentation](https://docs.aws.amazon.com/eks/index.html)
-
 
