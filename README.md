@@ -23,11 +23,12 @@ Free online courses from Amazon Web Services.
 
 * [The official training website](https://www.aws.training/)
 
-## AWS YouTube channel
+## YouTube channels
 
 Includes tutorials, videos from conferences, and demos.
 
 * [AWS YouTube channel](https://www.youtube.com/@amazonwebservices/featured)
+* [YouTube Playlist](https://youtube.com/playlist?list=PLq-S-mihzsNwNvWRVzz77TSN-ksXvmPNy)
 
 ## AWS Documentation
 
