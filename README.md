@@ -53,4 +53,7 @@ Includes tutorials, videos from conferences, and demos.
 ## Amazon Elastic Kubernetes Service (Amazon EKS)
 
 * [Amazon Elastic Kubernetes Service Documentation](https://docs.aws.amazon.com/eks/index.html)
+* [Kubernetes hands on introduction (2023) | Amazon EKS Workshop](https://www.youtube.com/live/_TFk5jQr2lk?feature=share)
+* [Production Ready Environments With Amazon EKS](https://youtu.be/1CxFtpjWNTQ)
+
 
