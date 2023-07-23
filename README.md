@@ -2,6 +2,13 @@
 
 A curated list of resources for learning AWS
 
+## Books
+
+* [AWS Cookbook by John Culkin, Mike Zazon](https://www.oreilly.com/library/view/aws-cookbook/9781492092599/)
+* [AWS Security](https://www.manning.com/books/aws-security)
+* [AWS for Solutions Architects - Second Edition](https://www.packtpub.com/product/aws-for-solutions-architects-second-edition/9781803238951)
+* [Security and Microservice Architecture on AWS](https://www.oreilly.com/library/view/security-and-microservice/9781098101459/)
+
 ## Free online courses
 
 Free online courses from Amazon Web Services. 
