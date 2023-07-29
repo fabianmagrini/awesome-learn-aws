@@ -40,6 +40,11 @@ Includes tutorials, videos from conferences, and demos.
 
 * [AWS Documentation](https://docs.aws.amazon.com/index.html)
 
+## Getting Started
+
+* [Getting Started with AWS](https://aws.amazon.com/getting-started/)
+* [Setting Up Your AWS Environment](https://aws.amazon.com/getting-started/guides/setup-environment/?pg=gs&sec=gtkaws)
+
 ## .NET on AWS
 
 * [.NET on AWS](https://aws.amazon.com/developer/language/net/)
