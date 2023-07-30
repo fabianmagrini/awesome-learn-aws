@@ -53,6 +53,10 @@ Includes tutorials, videos from conferences, and demos.
 
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
 
+## AWS Cloudformation
+
+* [AWS CloudFormation Documentation](https://docs.aws.amazon.com/cloudformation/index.html)
+
 ## .NET on AWS
 
 * [.NET on AWS](https://aws.amazon.com/developer/language/net/)
