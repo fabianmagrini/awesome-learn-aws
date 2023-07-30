@@ -29,6 +29,10 @@ Free online courses from Amazon Web Services.
 
 * [The official training website](https://www.aws.training/)
 
+## Courses
+
+* [A Cloud Guru](https://www.pluralsight.com/cloud-guru)
+
 ## YouTube channels
 
 Includes tutorials, videos from conferences, and demos.
