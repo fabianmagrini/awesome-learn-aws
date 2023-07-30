@@ -49,6 +49,10 @@ Includes tutorials, videos from conferences, and demos.
 * [Getting Started with AWS](https://aws.amazon.com/getting-started/)
 * [Setting Up Your AWS Environment](https://aws.amazon.com/getting-started/guides/setup-environment/?pg=gs&sec=gtkaws)
 
+## Architecture
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
+
 ## .NET on AWS
 
 * [.NET on AWS](https://aws.amazon.com/developer/language/net/)
