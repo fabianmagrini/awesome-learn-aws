@@ -57,6 +57,13 @@ Includes tutorials, videos from conferences, and demos.
 
 * [AWS CloudFormation Documentation](https://docs.aws.amazon.com/cloudformation/index.html)
 
+## AWS Cloud Development Kit (AWS CDK)
+
+* [AWS CDK Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+* [AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
+* [AWS CDK API Reference](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
+* [How to write and execute integration tests for AWS CDK applications](https://aws.amazon.com/blogs/devops/how-to-write-and-execute-integration-tests-for-aws-cdk-applications/)
+
 ## .NET on AWS
 
 * [.NET on AWS](https://aws.amazon.com/developer/language/net/)
