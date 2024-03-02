@@ -81,6 +81,13 @@ Includes tutorials, videos from conferences, and demos.
 * [Using the Amazon ECS CLI](https://github.com/aws/amazon-ecs-cli)
 * [Amazon ECS Workshop](https://ecsworkshop.com/introduction/)
 
+### AWS App Mesh
+
+* [Deploying service-mesh-based architectures using AWS App Mesh and Amazon ECS](https://aws.amazon.com/blogs/architecture/deploying-service-mesh-based-architectures-using-aws-app-mesh-and-amazon-ecs/)
+* [Getting started with AWS App Mesh and Amazon ECS](https://docs.aws.amazon.com/app-mesh/latest/userguide/getting-started-ecs.html)
+* [AWS App Mesh Workshop](https://www.appmeshworkshop.com/introduction/)
+* [AWS App Mesh Examples](https://github.com/aws/aws-app-mesh-examples)
+
 ## Amazon Elastic Kubernetes Service (Amazon EKS)
 
 * [Amazon Elastic Kubernetes Service Documentation](https://docs.aws.amazon.com/eks/index.html)
