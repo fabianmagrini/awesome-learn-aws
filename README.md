@@ -11,7 +11,7 @@ A curated list of resources for learning AWS
 
 ## Free online courses
 
-Free online courses from Amazon Web Services. 
+Free online courses from Amazon Web Services.
 
 * [edX courses offered by AWS](https://www.edx.org/school/aws)
 
@@ -87,6 +87,11 @@ Includes tutorials, videos from conferences, and demos.
 * [Getting started with AWS App Mesh and Amazon ECS](https://docs.aws.amazon.com/app-mesh/latest/userguide/getting-started-ecs.html)
 * [AWS App Mesh Workshop](https://www.appmeshworkshop.com/introduction/)
 * [AWS App Mesh Examples](https://github.com/aws/aws-app-mesh-examples)
+
+### AWS Fargate
+
+* [Server-side rendering micro-frontends – the architecture](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/)
+* [Server-side rendering micro-frontends – UI composer and service discovery](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-ui-composer-and-service-discovery/)
 
 ## Amazon Elastic Kubernetes Service (Amazon EKS)
 
