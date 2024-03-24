@@ -102,3 +102,7 @@ Includes tutorials, videos from conferences, and demos.
 ## Production Ready
 
 * [Best practices for multi-account management](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices.html)
+
+## AWS Prescriptive Guidance
+
+* [Deploy a React-based single-page application to Amazon S3 and CloudFront](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/deploy-a-react-based-single-page-application-to-amazon-s3-and-cloudfront.html)
