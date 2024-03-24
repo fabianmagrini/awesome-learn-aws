@@ -63,6 +63,7 @@ Includes tutorials, videos from conferences, and demos.
 * [AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
 * [AWS CDK API Reference](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
 * [How to write and execute integration tests for AWS CDK applications](https://aws.amazon.com/blogs/devops/how-to-write-and-execute-integration-tests-for-aws-cdk-applications/)
+* [Micro Frontends on AWS](https://github.com/aws-samples/micro-frontends-on-aws)
 
 ## .NET on AWS
 
